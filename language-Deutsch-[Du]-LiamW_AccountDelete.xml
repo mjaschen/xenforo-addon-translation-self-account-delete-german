@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Deutsch [Du]" date_format="j. F Y" time_format="H:i" currency_format="{symbol}{value}" week_start="0" decimal_point="," thousands_separator="." label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="de-DE" text_direction="LTR" addon_id="LiamW/AccountDelete" base_version_id="1020037" export_version="2">
+  <phrase title="admin_navigation.liamw_accountdelete_log" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Log für gelöschte Benutzer]]></phrase>
+  <phrase title="liamw_accountdelete_account_delete_pending" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Kontolöschung ausstehend]]></phrase>
+  <phrase title="liamw_accountdelete_account_deletion_cancelled" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[{board_title} Kontolöschung abgebrochen]]></phrase>
+  <phrase title="liamw_accountdelete_account_deletion_cancelled_body" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Hallo {name},<br/>
+<br />
+die geplante Löschung deines Benutzerkontos bei {board_title} wurde abgebrochen. Dein Konto wird nicht gelöscht.<br />
+<br />
+Viele Grüße<br /><br />
+{board_title}]]></phrase>
+  <phrase title="liamw_accountdelete_account_deletion_completed" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[{board_title} Kontolöschung abgeschlossen.]]></phrase>
+  <phrase title="liamw_accountdelete_account_deletion_completed_body" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Hallo {name},<br/>
+<br />
+dein Benutzerkonto bei {board_title} wurde am {date} erfolgreich gelöscht..<br />
+<br />
+Viele Grüße<br /><br />
+{board_title}]]></phrase>
+  <phrase title="liamw_accountdelete_account_deletion_force_cancelled_body" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Hallo {name},<br/>
+<br />
+die geplante Löschung deines Benutzerkontos bei {board_title} wurde abgebrochen und kann von dir selbst vorerst nicht erneut durchgeführt werden. Bitte wende dich an unseren Support für weitere Informationen.<br />
+<br />
+Viele Grüße<br /><br />
+{board_title}]]></phrase>
+  <phrase title="liamw_accountdelete_account_deletion_scheduled" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[{board_title} Kontolöschung geplant.]]></phrase>
+  <phrase title="liamw_accountdelete_account_marked_for_deletion" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Dein Benutzerkonto wurde zur Löschung vorgesehen und wird am {deleteDate} entfernt. Du kannst die Löschung abbrechen, indem du dich in dein Konto einloggst.]]></phrase>
+  <phrase title="liamw_accountdelete_add_disabled_users_to_secondary_group" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Füge deaktivierte Benutzer zu sekundärer Gruppe hinzu]]></phrase>
+  <phrase title="liamw_accountdelete_add_users_email_address_to_banned_list_to_prevent_re_registration" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Füge die E-Mail-Adresse zur Liste der gesperrten Adressen hinzu um eine erneute Registrierung zu verhindern.]]></phrase>
+  <phrase title="liamw_accountdelete_automated_ban_user_deleted_self" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Automatische Sperre – Benutzer hat Konto selbst gelöscht]]></phrase>
+  <phrase title="liamw_accountdelete_ban_email" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[E-Mail-Adresse sperren]]></phrase>
+  <phrase title="liamw_accountdelete_cancel_deletion" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Löschung abbrechen]]></phrase>
+  <phrase title="liamw_accountdelete_cancel_scheduled_deletion" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Geplante Löschung abbrechen]]></phrase>
+  <phrase title="liamw_accountdelete_cancel_scheduled_user_deletion" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Geplante Kontolöschung abbrechen]]></phrase>
+  <phrase title="liamw_accountdelete_cancelled" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Abgebrochen]]></phrase>
+  <phrase title="liamw_accountdelete_check_box_to_confirm_deletion" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Ich bestätige, dass mein Account gelöscht werden soll und ich den Zugang zu dieser Website verlieren werden. Ich habe verstanden, dass meine erstellten Inhalte nicht entfernt werden.]]></phrase>
+  <phrase title="liamw_accountdelete_completed" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Abgeschlossen]]></phrase>
+  <phrase title="liamw_accountdelete_completely_remove_user_from_database" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Benutzer komplett aus der Datenbank entfernen.]]></phrase>
+  <phrase title="liamw_accountdelete_delete_account" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Konto löschen]]></phrase>
+  <phrase title="liamw_accountdelete_delete_imminent_body_html" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Hallo {name},
+
+wie von dir angefordert, wird dein Benutzerkonto bei {boardTitle} in {days} Tagen gelöscht.
+
+Falls du dein Konto nicht länger löschen möchtest, kannst du die geplante Löschung durch Einloggen bei {boardTitle} abbrechen.]]></phrase>
+  <phrase title="liamw_accountdelete_delete_pending" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Dein Benutzerkonto ist für die Löschung vorgesehen und wird am {deleteDate} entfernt. Du kannst du Löschung mit der unten stehenden Schaltfläche abbrechen.]]></phrase>
+  <phrase title="liamw_accountdelete_deleting_accounts" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Konten löschen]]></phrase>
+  <phrase title="liamw_accountdelete_deletion_reason" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Grund für die Löschung]]></phrase>
+  <phrase title="liamw_accountdelete_grace_explain" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Dein Benutzerkonto wird in {days} Tagen gelöscht. Bis dahin kannst du die Löschung noch abbrechen. Deine Inhalte werden nicht entfernt.]]></phrase>
+  <phrase title="liamw_accountdelete_immediate_explain" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Dein Benutzerkonto wird sofort gelöscht. Du kannst die Löschung nicht abbrechen, wenn sie bestätigt wurde. Deine Inhalte werden nicht entfernt.]]></phrase>
+  <phrase title="liamw_accountdelete_initiated" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Gestartet]]></phrase>
+  <phrase title="liamw_accountdelete_manually_completed" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Manuell abgeschlossen]]></phrase>
+  <phrase title="liamw_accountdelete_mark_user_account_as_disabled_preventing_use_of_account" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Konto deaktivieren, kann nicht mehr genutzt werden.]]></phrase>
+  <phrase title="liamw_accountdelete_please_confirm_deletion_by_checking_the_checkbox" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Bitte bestätige die Löschung des Kontos durch Auswählen der Checkbox.]]></phrase>
+  <phrase title="liamw_accountdelete_please_confirm_that_you_wish_to_cancel_following_account_deletion" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Bitte bestätige, dass du die Löschung des Benutzerkontos abbrechen möchtest.]]></phrase>
+  <phrase title="liamw_accountdelete_please_enter_reason_for_deleting_your_account" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Bitte gib einen Grund für die Kontolöschung ein]]></phrase>
+  <phrase title="liamw_accountdelete_remove_email" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[E-Mail-Adresse entfernen]]></phrase>
+  <phrase title="liamw_accountdelete_remove_password" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Passwort entfernen]]></phrase>
+  <phrase title="liamw_accountdelete_remove_users_email_address_from_database" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[E-Mail-Adresse des Benutzers aus der Datenbank entfernen.]]></phrase>
+  <phrase title="liamw_accountdelete_remove_users_password_and_third_party_account_connections" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Passwort der BenutzerIn und verbunden Konten entfernen. Die BenutzerIn kann sich nicht mehr anmelden.]]></phrase>
+  <phrase title="liamw_accountdelete_sending_user_deletion_reminders" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Erinnerungen zu Kontolöschungen senden]]></phrase>
+  <phrase title="liamw_accountdelete_this_account_is_scheduled_for_deletion_and_will_be_deleted_on_x" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Die Löschung dieses Kontos ist geplant und wird am {end_date} ausgeführt.]]></phrase>
+  <phrase title="liamw_accountdelete_this_scheduled_account_deletion_cannot_be_cancelled_as_it_is_not_pending" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Die geplante Kontolöschung kann nicht abgebrochen werden, da sie nicht ausstehend ist.]]></phrase>
+  <phrase title="liamw_accountdelete_user_deletion_log" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Log Kontolöschungen]]></phrase>
+  <phrase title="liamw_accountdelete_why_you_deleting_your_account" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Warum möchtest du dein Konto löschen?]]></phrase>
+  <phrase title="liamw_accountdelete_you_cannot_delete_your_account" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Du kannst dein Konto nicht selbst löschen. Wende dich bitte an unseren Support für weitere Informationen.]]></phrase>
+  <phrase title="liamw_accountdelete_you_cannot_delete_your_account_as_you_have_recently_cancelled_pending" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Du kannst dein Konto aktuell nicht selbst löschen, da du erst vor Kurzem eine Kontolöschung abgebrochen hast.]]></phrase>
+  <phrase title="liamw_accountdelete_you_cannot_delete_your_account_using_this_system_as_you_member_of" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Du kannst als Moderator dein Konto nicht selbst löschen. Bitte wende dich an unseren Support.]]></phrase>
+  <phrase title="liamw_accountdelete_you_viewing_these_options_via_add_on_link" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Du siehst diese Optionen über den Add-on-Link. Für die Benutzerkriterien bitte direkt über die <a href="{groupLink}">Einstellungsgruppe</a> aufrufen.]]></phrase>
+  <phrase title="liamw_accountdelete_your_x_account_will_be_deleted_in_y_days" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Dein Konto bei {boardTitle} wird in {days} Tagen gelöscht.]]></phrase>
+  <phrase title="option.liamw_accountdelete_deletion_delay" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Verzögerung für Kontolöschung]]></phrase>
+  <phrase title="option.liamw_accountdelete_deletion_method" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Methode der Kontolöschung]]></phrase>
+  <phrase title="option.liamw_accountdelete_randomise_username" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Benutzername randomisieren]]></phrase>
+  <phrase title="option.liamw_accountdelete_reminder_threshold" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Erinnerungs-E-Mail]]></phrase>
+  <phrase title="option.liamw_accountdelete_repeat_delay" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Verzögerung für erneute Löschanforderung]]></phrase>
+  <phrase title="option.liamw_accountdelete_user_criteria" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Benutzerkriterien]]></phrase>
+  <phrase title="option_explain.liamw_accountdelete_deletion_delay" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[<p>Anzahlder Tage zwischen Löschanforderung und -ausführung. Wenn sich eine BenutzerIn zwischenzeitlich einloggt, wird die Möglichkeit zum Abbrechen der Löschung angezeigt.</p>
+
+<p>Auf 0 setzen, um Löschungen sofort auszuführen.</p>
+
+<p>Hinweis: Änderungen dieser Option wirken sich <strong>auch auf bereits bevorstehende Löschungen</strong> aus.</p>]]></phrase>
+  <phrase title="option_explain.liamw_accountdelete_deletion_method" addon_id="LiamW/AccountDelete" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[]]></phrase>
+  <phrase title="option_explain.liamw_accountdelete_randomise_username" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Wenn aktiviert, wird der Benutzername vor der Löschung unkenntlich gemacht.]]></phrase>
+  <phrase title="option_explain.liamw_accountdelete_reminder_threshold" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[BenutzerInnen erhalten eine Erinnerungs-E-Mail, wenn ein Wert größer 0 eingegeben wird (Anzahl der Tage vor Löschung eingeben).]]></phrase>
+  <phrase title="option_explain.liamw_accountdelete_repeat_delay" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[BenutzerInnen werden nach Abbrechen einer Kontolöschung keine erneute Kontolöschung für die eingegebene Anzahl Tage durchführen können.]]></phrase>
+  <phrase title="option_explain.liamw_accountdelete_user_criteria" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Bitte benutze die Tabs oben um Benutzerkriterien für den Zugriff auf die Kontolöschfunktion fetzulegen. Wenn keine Kriterien gesetzt sind, besteht keine Einschränkung. Die Kriterien werden zusätzlich zur User Group Permission ausgewertet – diese wird in jedem Fall ausgewertet.]]></phrase>
+  <phrase title="option_group.liamw_memberselfdelete" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Kontolöschung]]></phrase>
+  <phrase title="option_group_description.liamw_memberselfdelete" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Einstellungen für das 'Member Self Delete' Add-on.]]></phrase>
+  <phrase title="permission.general_lw_deleteAccount" addon_id="LiamW/AccountDelete" version_id="1020037" version_string="1.2.0 Beta 7"><![CDATA[Eigenes Konto löschen]]></phrase>
+</language>
